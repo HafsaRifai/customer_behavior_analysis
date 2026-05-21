@@ -1,16 +1,16 @@
 Data Analytics Project
-
 Overview
 
-This project demonstrates an end-to-end data analytics workflow using Python, PostgreSQL, and Power BI. The main objective was to analyze a dataset, extract meaningful insights, and present the findings through interactive dashboards and reports.
+This project demonstrates an end-to-end data analytics workflow using Python, PostgreSQL, and Power BI. The objective of the project was to analyze a dataset, extract meaningful insights, and present findings through interactive dashboards and reports.
 
-The project includes:
-
+Project Tasks
 Loading and processing a dataset using Python
 Performing Exploratory Data Analysis (EDA)
 Cleaning and transforming data
 Running SQL queries in PostgreSQL
 Building interactive Power BI dashboards
+
+Dashboard Features
 
 The Power BI dashboard includes:
 
@@ -22,22 +22,35 @@ Visual insights for decision-making
 Key Results
 Identified important trends and patterns in the dataset
 Improved data quality through cleaning and preprocessing
-Generated meaningful insights using SQL and visualization tools
-Created an interactive dashboard for easy data interpretation
+Generated insights using SQL and visualization tools
+Created an interactive dashboard for data interpretation
+
+Tools & Technologies
+Python
+Pandas
+PostgreSQL
+Power BI
+Jupyter Notebook
 
 How to Run the Project
-
 1. Clone the Repository
-git clone <repository-link>
-cd <project-folder>
+   git clone https://github.com/HafsaRifai/customer_behavior_analysis.git
+   cd customer_behavior_analysis
+
 2. Install Dependencies
-pip install -r requirements.txt
+   pip install -r requirements.txt
+
 3. Run Jupyter Notebook
-jupyter notebook
+   jupyter notebook
+
 4. Setup PostgreSQL
-Create a PostgreSQL database
-Import the cleaned dataset
-Run the SQL scripts from the sql/ folder
+   Create a PostgreSQL database
+   Import the cleaned dataset
+   Run the SQL scripts from the sql/ folder
+
 5. Open Power BI Dashboard
-Open the .pbix file in Power BI Desktop
-Refresh the data connection if required
+   Open the .pbix file in Power BI Desktop
+   Refresh the data connection if required
+
+Conclusion
+This project showcases practical skills in data cleaning, exploratory analysis, SQL querying, and dashboard development using industry-standard analytics tools.
