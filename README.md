@@ -89,7 +89,10 @@ The `customer_behavior_dashboard.pbix` file contains an interactive dashboard bu
 
 **Dashboard Preview:**
 
-![Customer Behavior Dashboard](dashboard_screenshot.png)
+![Customer Behavior Dashboard]
+<img width="1213" height="731" alt="image" src="https://github.com/user-attachments/assets/5c16a1b7-a499-4764-b7f8-115891edcff5" />
+
+(dashboard_screenshot.png)
 
 **KPI Cards:**
 - 3.9K total customers
