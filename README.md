@@ -90,7 +90,8 @@ The `customer_behavior_dashboard.pbix` file contains an interactive dashboard bu
 **Dashboard Preview:**
 
 ![Customer Behavior Dashboard]
-<img width="1213" height="731" alt="image" src="https://github.com/user-attachments/assets/5c16a1b7-a499-4764-b7f8-115891edcff5" />
+<img width="1047" height="673" alt="image" src="https://github.com/user-attachments/assets/5256ff70-f4c4-4470-bed8-b70c60872328" />
+
 
 (dashboard_screenshot.png)
 
